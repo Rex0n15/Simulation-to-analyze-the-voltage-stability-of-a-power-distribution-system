@@ -113,5 +113,8 @@ title('P–Q Relationship'); grid on;
 sgtitle('Voltage Stability Analysis - Distribution System');
 
 ## OUTPUT
+![WhatsApp Image 2025-09-25 at 10 48 40_63502a49](https://github.com/user-attachments/assets/e616d75c-b6cc-464d-a6a3-8dfdaf9f44d6)
+
 
 ## RESULT
+Thus the the voltage stability of a power distribution system is simulated and analyzed in matlab software successfully
